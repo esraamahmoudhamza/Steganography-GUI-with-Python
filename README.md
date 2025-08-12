@@ -17,4 +17,9 @@ Built with **CustomTkinter** for a modern dark-themed GUI.
 ## 📺 Demo Video
 Watch the full video on YouTube: https://www.youtube.com/@EsraaCodes
 
+## ⚠️ Disclaimer
+This project is created for **educational and research purposes only**.  
+The author is **not responsible for any misuse** of this software.  
+Please use it **ethically** and in compliance with all applicable laws.
+
 
